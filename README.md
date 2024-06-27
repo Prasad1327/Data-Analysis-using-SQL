@@ -1,1 +1,6 @@
-# Data-Analysis-using-SQL
+# NFT Sales Analysis
+This project is an analysis of the sales data for the famous CryptoPunks NFT collection. The dataset covers sales from January 1st, 2018 to December 31st, 2021 and includes information such as buyer address, ETH price, USD price, seller address, date, time, NFT ID, transaction hash, and NFT name.
+The goal of this project is to gain insights into the CryptoPunks NFT market by answering various questions and generating reports based on the provided data. The analysis covers topics such as total sales, most expensive transactions, moving averages, average sale prices, sales by day of the week, transaction summaries, high and low prices, monthly sales leaders, total volume, and wallet activity.
+Additionally, an "estimated average value calculator" is created to determine a representative price for the collection each day, excluding outlier sales below 10% of the daily average price.
+The project is implemented using SQL queries and is suitable for anyone interested in exploring the world of NFTs and analyzing real-world data from the blockchain. The queries can be easily adapted to work with other NFT datasets or to answer different questions related to the NFT market.
+Feel free to explore the code, modify it to suit your needs, and contribute to the project by submitting pull requests or raising issues. Happy analyzing!
